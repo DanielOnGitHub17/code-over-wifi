@@ -1,0 +1,31 @@
+{
+  "name": "wifi-collab",
+  "version": "1.0.0",
+  "description": "Collaborate on a file over wifi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielOnGitHub17/code-over-wifi.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "wifi",
+    "hotspot",
+    "collab",
+    "collaborate"
+  ],
+  "author": "DanielOnGitHub17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielOnGitHub17/code-over-wifi/issues"
+  },
+  "homepage": "https://github.com/DanielOnGitHub17/code-over-wifi#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
