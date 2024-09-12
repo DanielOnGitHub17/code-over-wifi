@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/DanielOnGitHub17/code-over-wifi#readme",
   "dependencies": {
+    "prompt-sync": "^4.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   }
