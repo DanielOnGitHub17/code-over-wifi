@@ -23,8 +23,5 @@
   "bugs": {
     "url": "https://github.com/DanielOnGitHub17/code-over-wifi/issues"
   },
-  "homepage": "https://github.com/DanielOnGitHub17/code-over-wifi#readme",
-  "dependencies": {
-    "express": "^4.21.0"
-  }
+  "homepage": "https://github.com/DanielOnGitHub17/code-over-wifi#readme"
 }
