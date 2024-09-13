@@ -22,4 +22,7 @@ function App() {
   );
 }
 
+// ed = monaco.editor.getEditors()[0]
+// setInterval(()=>console.log(ed.getPosition()), 1000)
+
 export default App;
