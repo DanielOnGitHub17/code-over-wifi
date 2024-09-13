@@ -3,8 +3,9 @@ const fs = require("fs");
 const path = require("path");
 const prompt = require("prompt-sync")({ sigint: true });
 
+
+const password = prompt("Enter session password: ")
 const server = http.createServer((req, res) => {
-  const password = prompt("Enter session password: ")
   // Serve static files from the React app
   const filePath = path.join(__dirname, "../wifi-collab/build", req.url === "/" ? "index.html" : req.url);
   const extname = String(path.extname(filePath)).toLowerCase();
